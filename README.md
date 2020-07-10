@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey 👋
+
+- 🔭 I’m currently working at TripActions on the support experience team.
+- 👨‍💻 I organise the  DigitalOcean Amsteram Meetup
+- 🤔 I know some things about: Javascript, React and gardening
+- 📫 How to reach me: https://twitter.com/DavidEndersby1
+- 😄 Pronouns: Him
+- ⚡ Links to other places on the internet:
+  - Medium https://medium.com/@daendersby
+  - Website https://www.davidendersby.me
 
 <!--
 **Davetherave2010/Davetherave2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
