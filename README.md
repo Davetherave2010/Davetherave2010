@@ -1,7 +1,7 @@
 ### Hey 👋
 
 - 🔭 I’m currently working at TripActions on the support experience team.
-- 👨‍💻 I organise the  DigitalOcean Amsteram Meetup
+- 🧑🏻‍🏫 I organise the  DigitalOcean Amsterdam Meetup
 - 🤔 I know some things about: Javascript, React and gardening
 - 📫 How to reach me: https://twitter.com/DavidEndersby1
 - 😄 Pronouns: Him
