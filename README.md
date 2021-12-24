@@ -4,12 +4,13 @@
 [![twitter badge](https://img.shields.io/badge/twitter-@DavidEndersby1-blue?style=flat-square&logo=twitter)](https://twitter.com/DavidEndersby1)
 [![medium badge](https://img.shields.io/badge/medium-@daendersby-purple?style=flat-square&logo=medium)](https://medium.com/@daendersby)
 
-I am a Frontend Web Developer currently working at TripActions on the Support Experience team
+Senior Frontend Dev and Currently Jobless (by design)
 
 - 🧑🏻‍🏫 I organise the [DigitalOcean Amsterdam Meetup](https://www.meetup.com/digitaloceanamsterdam/)
 - 🤔 I know some things about: Javascript, React and Gardening
 - 📫 How to reach me: https://twitter.com/DavidEndersby1
 - 😄 Pronouns: Him
+- 💬 Sometimes I write my thoughts and experiences on [Medium](https://medium.davidendersby.me/)
 
 <!--
 **Davetherave2010/Davetherave2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
