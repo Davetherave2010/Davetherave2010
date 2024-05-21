@@ -6,7 +6,7 @@
 
 Engineering Manager on the Users team at Mews
 
-- 🧑🏻‍🏫 I organise the [DigitalOcean Amsterdam Meetup](https://www.meetup.com/digitaloceanamsterdam/)
+- 🧑🏻‍🏫 I previously organised the [DigitalOcean Amsterdam Meetup](https://www.meetup.com/digitaloceanamsterdam/)
 - 🤔 I know some things about: Javascript, React and Gardening
 - 📫 How to reach me: https://twitter.com/DavidEndersby1
 - 😄 Pronouns: Him
