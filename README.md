@@ -1,13 +1,13 @@
 ### Hello 👋
 
 [![website badge](https://img.shields.io/badge/website-davidendersby.me-green?style=flat-square)](https://www.davidendersby.me)
-[![twitter badge](https://img.shields.io/badge/twitter-@DavidEndersby1-blue?style=flat-square&logo=twitter)](https://twitter.com/DavidEndersby1)
 [![medium badge](https://img.shields.io/badge/medium-@daendersby-purple?style=flat-square&logo=medium)](https://medium.com/@daendersby)
 
-Engineering Manager on the Users team at Mews
+Director of Product & Engineering at Mews, leading the Users and Ecosystem tribe
 
 - 🧑🏻‍🏫 I previously organised the [DigitalOcean Amsterdam Meetup](https://www.meetup.com/digitaloceanamsterdam/)
-- 🤔 I know some things about: Javascript, React and Gardening
+- 🤔 I know some things about: Frontend Dev and Gardening
+- 🤓 Passionate about Security, Green energy, Home automation and Climate
 - 📫 How to reach me: https://twitter.com/DavidEndersby1
 - 😄 Pronouns: Him
 - 💬 Sometimes I write my thoughts and experiences on [Medium](https://medium.davidendersby.me/)
