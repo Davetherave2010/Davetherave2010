@@ -3,7 +3,7 @@
 [![website badge](https://img.shields.io/badge/website-davidendersby.me-green?style=flat-square)](https://www.davidendersby.me)
 [![medium badge](https://img.shields.io/badge/medium-@daendersby-purple?style=flat-square&logo=medium)](https://medium.com/@daendersby)
 
-Director of Product & Engineering at Mews, leading the Users and Ecosystem tribe
+Director of Product & Engineering at [Mews](https://www.mews.com/en), leading the Users and Ecosystem tribe
 
 - 🧑🏻‍🏫 I previously organised the [DigitalOcean Amsterdam Meetup](https://www.meetup.com/digitaloceanamsterdam/)
 - 🤔 I know some things about: Frontend Dev and Gardening
