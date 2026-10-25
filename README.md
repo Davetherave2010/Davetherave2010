@@ -8,7 +8,7 @@ Director of Product & Engineering at [Mews](https://www.mews.com/en), leading th
 - 🧑🏻‍🏫 I previously organised the [DigitalOcean Amsterdam Meetup](https://www.meetup.com/digitaloceanamsterdam/)
 - 🤔 I know some things about: Frontend Dev and Gardening
 - 🤓 Passionate about Security, Green energy, Home automation and Climate
-- 📫 How to reach me: https://twitter.com/DavidEndersby1
+- 📫 How to reach me: https://www.instagram.com/davetherave2010
 - 😄 Pronouns: Him
 - 💬 Sometimes I write my thoughts and experiences on [Medium](https://medium.davidendersby.me/)
 
